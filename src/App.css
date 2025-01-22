@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .anchoredBanner{
     display: flex;
     flex-wrap: wrap;
@@ -13,3 +14,13 @@
     margin-right: 20px;
 }
 
+=======
+#productsdiv {
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    flex: 1;
+}
+>>>>>>> 72d271079b701394b7668d32009c4da05ca15a72
