@@ -1,0 +1,15 @@
+.anchoredBanner{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    background-image: url("./public/1.jpg");
+    width: 100% !important;
+    height: 200px!important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: 20px;
+}
+
